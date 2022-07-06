@@ -1,0 +1,23 @@
+table,tbody{
+    background-color:antiquewhite;
+
+}
+.butsub{
+    border-radius: 9%;
+    background-color: white;
+}
+.tr1{
+
+    background-color: cadetblue;
+
+}
+.tr2{
+    background-color: silver;
+    font-family: "Century Schoolbook";
+
+
+}
+button{
+    background-color: white;
+    border-radius: 9%;
+}
